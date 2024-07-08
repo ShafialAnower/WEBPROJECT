@@ -1,3 +1,3 @@
-# WEBPROJECTFINAL
+# WEBPROJECTFINALASSIGNMENT 
 
-Health Supplement Website using HTML, CSS, Bootstrap 4, & JQuery
+Health Supplement Website using HTML, CSS, Bootstrap 4, & JQuery.
